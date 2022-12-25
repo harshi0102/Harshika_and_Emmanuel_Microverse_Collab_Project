@@ -10,10 +10,9 @@ body{
   position: relative;
 }
 
-@media(max-width:760px){
-  body{
-    background-color:#be3144;
-  }
+@media(max-width:75em){
+  html{
+font-size:60%  }
 }
 
 section {
