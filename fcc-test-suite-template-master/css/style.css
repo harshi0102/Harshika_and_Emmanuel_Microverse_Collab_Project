@@ -1,3 +1,9 @@
+
+@media(max-width:75em){
+  html{
+font-size:60%  }
+}
+
 @import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
 
 * {
@@ -10,10 +16,6 @@ body{
   position: relative;
 }
 
-@media(max-width:75em){
-  html{
-font-size:60%  }
-}
 
 section {
   width: 100vw;
